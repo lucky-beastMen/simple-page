@@ -13,7 +13,7 @@ body{
     padding: 10px;
     box-sizing: border-box;
     gap: 10px;
-    grid-template: repeat(2, minmax(auto, 10vh)) 1fr minmax(auto, 10vh) / calc(20vw - 20px) calc(80vw - 20px);
+    grid-template: repeat(2, minmax(auto, 10vh)) 1fr minmax(auto, 10vh) / minmax(auto, 20vw) minmax(auto, 80vw);
 }
 .container div{
     border-radius: 10px;
