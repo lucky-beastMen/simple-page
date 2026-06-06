@@ -1,0 +1,8 @@
+div{
+    height: 10px;
+    width: 100%;
+    background-color: red;
+    color: black;
+    padding: 20px;
+    overflow:hidden;
+}
